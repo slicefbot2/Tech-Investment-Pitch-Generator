@@ -1,0 +1,2 @@
+# Ideas
+Update database driver to fix connection pooling issue
